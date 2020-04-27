@@ -1,0 +1,4 @@
+com\yzl\springcloud\service\ProductClientService.class
+com\yzl\springcloud\ProductConsumer_80.class
+com\yzl\springcloud\config\ConfigBean.class
+com\yzl\springcloud\controller\ProductController_Feign.class

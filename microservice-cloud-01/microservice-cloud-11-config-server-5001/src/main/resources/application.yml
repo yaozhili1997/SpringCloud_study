@@ -1,0 +1,10 @@
+server:
+  port: 5001
+spring:
+  application:
+    name: microservice-config
+  cloud:
+    config:
+      server:
+        git: # 远程库的git地址
+          uri: https://github.com/yaozhili1997/microservice-cloud-config.git
